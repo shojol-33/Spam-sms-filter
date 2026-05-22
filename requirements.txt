@@ -1,0 +1,16 @@
+# Spam SMS Filter - Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core data manipulation
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Machine learning
+scikit-learn>=1.2.0
+
+# Web app
+streamlit>=1.32.0
+
+# Jupyter environment (optional, for the notebook)
+jupyter>=1.0.0
+notebook>=6.5.0
